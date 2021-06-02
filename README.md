@@ -1,0 +1,2 @@
+# TTTrackerPro
+An application that is still under development to record the time spent on user target events, Users record their own event completion by adding target events, and then use the application to record the time it takes to complete the target event. The current project is under development, if you encounter problems during the test, please contact me
